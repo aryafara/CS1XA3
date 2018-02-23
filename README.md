@@ -1,1 +1,3 @@
 # CS1XA3
+Hello Welcome to Arian Alex Aryafar's CompSci. 1XA3 Repo., where you'll find both lazy and extremely precise formatting and overcomplications for one-line solutions
+You'll also find that at the root directory of this Repo. that there is a shell script called ProjectAnalyze, its there to act as an user-friendly script to checking Haskell files for syntax errors, seeing if your branch is up-to-date with remote, checking for uncommitted but tracked files, and keeping track of inline To-Do lists as generated per user files.
