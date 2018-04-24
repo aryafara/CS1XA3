@@ -1,5 +1,13 @@
 {-# LANGUAGE FlexibleInstances    #-}
 {-# LANGUAGE UndecidableInstances #-}
+{-
+Module : ExprDiff
+Description: A module that is incomplete and will probably stay incomplete until physicists stop abusing differentials
+Copyright: (c) aryafara @ 2018
+License : BSD
+Stability : experimental (not at all)
+Portability : MSDOS (will be ported to Linux)
+-}
 module ExprDiff where
 
 import           ExprType
